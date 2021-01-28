@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Webste</title>
+</head>
+<body>
+<div style="text-align:center">
+<button onclick="PlayPause()">Play/Pause</button>
+<button onclick="Big()">Big</button>
+<button onclick="Small()">Small</button>
+<button onclick="Normal()">Normal</button>
+</div>
+</body>
+<video id="MyVideo" width="400">
+<source src="C:\xampp\htdocs\mixkit-three-men-playing-soccer-in-concrete-field-767.mp4" type="video/mp4">
+The browser does not support HTML Videos</video>
+<script>
+var c=document.getElementById("MyVideo");
+function PlayPause()
+{
+if(MyVideo.paused)
+MyVideo.play();
+else
+MyVideo.pause();
+}
+function Big()
+{
+MyVideo.width=600;
+}
+function Small()
+{
+MyVideo.width=200;
+}
+function Normal()
+{
+MyVideo.width=300;
+}
+</script>
+</html>

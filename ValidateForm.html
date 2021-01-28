@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Validation</title>    
+<script>
+function ValidateEmail(field,alerttext)    
+{
+with(field)
+{
+apos=value.indexOf("@");
+dotpos=value.lastIndexOf(".");
+if((apos<1)||(dotpos-apos<2))
+{
+alert(alerttext);
+return false;
+}
+else
+{
+return true;
+}
+}
+}
+function ValidateForm(thisform)
+{
+with(thisform)
+{
+if(ValidateEmail(email,"Not a valid Email")==false)
+{
+email.focus();
+return false;
+}
+else
+{
+return true;
+}
+}
+}
+</script>    
+</head>
+<body>
+<form action="submit.html" onsubmit="return ValidateForm(thisform)" method="post">
+Name<input type="text">    
+Email<input type="text">
+<input type="submit">
+</form>    
+</body>
+</html>
