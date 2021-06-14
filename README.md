@@ -7,7 +7,7 @@ This repository is dedicated to learners aiming to master JavaScript, which is e
 
 - Brackets IDE
 
--JDK (Java Development Kit)
+- JDK (Java Development Kit)
 
 ## Functionality of the Repository:-
 JavaScript is versatile and caters to the need of the programmer.Ask for any effect and it will be possible to implement through JavaScript.Truth be told,I had a lot of fun experimenting with the functions.
