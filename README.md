@@ -16,7 +16,9 @@ Here,I will be demonstrating Onload(),in  Onload.html
 
 
 ![One](https://user-images.githubusercontent.com/77625109/121898707-4b032e00-cd41-11eb-9bbf-f5c778fd03c8.png)
-As you can see,it is a webpage within a webpage.It is made possible using a frame
+
+As you can see,it is a webpage within a webpage.It is made possible using a frame,displaying input fields for 'Name' and 'Email Address',along with a button,perforimg 'submit'
+action
 
 Concepts Used:-
 
