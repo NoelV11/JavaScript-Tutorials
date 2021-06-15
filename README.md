@@ -39,7 +39,7 @@ Concepts Used:-
 
 ## Improvements:-
 
-I am open towards learning more concepts in DOM,to enhance my Web Programming knowledge.What's included in here is pretty limited
+I am open towards learning more concepts in JavaScript,to enhance my Web Programming knowledge.What's included in here is pretty limited
 
 This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy 
 
