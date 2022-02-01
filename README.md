@@ -1,4 +1,7 @@
 # JavaScript-Tutorials
+![Lines of code](https://img.shields.io/tokei/lines/github/NoelV11/JavaScript-Tutorials)
+![GitHub top language](https://img.shields.io/github/languages/top/NoelV11/JavaScript-Tutorials)
+
 This repository is dedicated to learners aiming to master JavaScript, which is essential in the developmental phases of a website. I have provided material about Regular Expressions, Arrays, JS Event Handlers and Events. In order to challenge learners, an assignment has been provided, with solutions.
 
 ## Resources Used:-
